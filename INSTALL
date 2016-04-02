@@ -1,0 +1,9 @@
+Building GlobalGoldCoin
+
+See doc/readme-qt.rst for instructions on building Global Gold Coin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of GlobalGoldCoin.
+
+See doc/build-*.txt for instructions on building GlobalGoldCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of GlobalGoldCoin.
