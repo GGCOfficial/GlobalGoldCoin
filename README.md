@@ -5,7 +5,7 @@ Global Gold Coin QT Wallet
 
 http://www.globalgoldcoin.org
 
-https://bitcointalk.org/index.php?topic=1129322.0
+https://bitcointalk.org/ COMING SOON 
 
 Copyright (c) 2015 Global Gold Coin Developers
 
